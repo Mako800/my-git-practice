@@ -37,3 +37,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# 忽略所有 SSH 密钥文件
+*.pem
+*.key
+*.pub
+ssh_key.txt
